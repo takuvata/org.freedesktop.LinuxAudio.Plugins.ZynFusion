@@ -125,9 +125,9 @@
             ],
             "sources": [
                 {
-                    "type": "archive",
-                    "url": "https://download.sourceforge.net/sourceforge/zynaddsubfx/zynaddsubfx/3.0.5/zynaddsubfx-3.0.5.tar.bz2",
-                    "sha256": "7447322268114a1e0ac5f281ac37a09a78e761a7be61999caf79100049789f63"
+                    "type": "git",
+                    "url": "https://github.com/zynaddsubfx/zynaddsubfx.git",
+                    "commit": "b49feaebd1051aaf3773fbeb6278332448b2b2e0"
                 },
                 {
                     "type": "file",
